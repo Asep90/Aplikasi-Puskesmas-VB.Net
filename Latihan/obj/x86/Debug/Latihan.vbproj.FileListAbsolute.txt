@@ -1,0 +1,16 @@
+C:\Users\ASEP\AppData\Local\Temporary Projects\Latihan\obj\x86\Debug\Latihan.Form1.resources
+C:\Users\ASEP\AppData\Local\Temporary Projects\Latihan\obj\x86\Debug\Latihan.Resources.resources
+C:\Users\ASEP\AppData\Local\Temporary Projects\Latihan\obj\x86\Debug\Latihan.vbproj.GenerateResource.Cache
+C:\Users\ASEP\Documents\Visual Studio 2010\Projects\Latihan\Latihan\bin\Debug\Latihan.exe
+C:\Users\ASEP\Documents\Visual Studio 2010\Projects\Latihan\Latihan\bin\Debug\Latihan.pdb
+C:\Users\ASEP\Documents\Visual Studio 2010\Projects\Latihan\Latihan\bin\Debug\Latihan.xml
+C:\Users\ASEP\Documents\Visual Studio 2010\Projects\Latihan\Latihan\obj\x86\Debug\Latihan.FormLogin.resources
+C:\Users\ASEP\Documents\Visual Studio 2010\Projects\Latihan\Latihan\obj\x86\Debug\Latihan.FormPasien.resources
+C:\Users\ASEP\Documents\Visual Studio 2010\Projects\Latihan\Latihan\obj\x86\Debug\Latihan.Resources.resources
+C:\Users\ASEP\Documents\Visual Studio 2010\Projects\Latihan\Latihan\obj\x86\Debug\Latihan.vbproj.GenerateResource.Cache
+C:\Users\ASEP\Documents\Visual Studio 2010\Projects\Latihan\Latihan\obj\x86\Debug\Latihan.exe
+C:\Users\ASEP\Documents\Visual Studio 2010\Projects\Latihan\Latihan\obj\x86\Debug\Latihan.xml
+C:\Users\ASEP\Documents\Visual Studio 2010\Projects\Latihan\Latihan\obj\x86\Debug\Latihan.pdb
+C:\Users\ASEP\Documents\Visual Studio 2010\Projects\Latihan\Latihan\obj\x86\Debug\Latihan.FormPegawai.resources
+C:\Users\ASEP\Documents\Visual Studio 2010\Projects\Latihan\Latihan\obj\x86\Debug\Latihan.FormBerobat.resources
+C:\Users\ASEP\Documents\Visual Studio 2010\Projects\Latihan\Latihan\obj\x86\Debug\Latihan.FormUtama.resources
